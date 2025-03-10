@@ -1,0 +1,31 @@
+# ------------------------------------------------------------
+# Operating Systems Specific Junk Files
+<<<<<<< HEAD
+=======
+# ------------------------------------------------------------
+>>>>>>> formules_pages
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OS X Thumbnails
+._*
+
+# Windows image file caches
+Thumbs.db
+thumbs.db
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# WSL
+*Zone.Identifier
+
+# Node modules
+node_modules/
+
+#Angular
+.angular/
